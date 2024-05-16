@@ -13,5 +13,7 @@ public class sumas_de_dos {
         int suma = primerNumero + segundoNumero;  
 
         System.out.println("La suma de " + primerNumero + " y " + segundoNumero + " es " + suma);  
+        
     }
+    
 }
